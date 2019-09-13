@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.containCards{
+  display:flex;
+  justify-content: space-around;
+  margin:30px;
+}
+
+ .card1, .card2{
+  height:400px;
+  width:500px;
+  margin:14px;
+}
+.card3{
+  height:600px;
+}
+.myName{
+  margin:50px 0;
+}
+.imagesCard{
+  height:300px;
+  width:300px;
+}
+.cardCon{
+  margin:14px;
+}
+
